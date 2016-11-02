@@ -1,0 +1,5 @@
+{
+	"language"  : "js",
+	"engine"    : "v8",
+	"lib"       :  "bluebird,q,moment"
+}

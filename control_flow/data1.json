@@ -1,0 +1,5 @@
+{
+	"language"  : "angular",
+	"engine"    : "google v8",
+	"lib"       :  "bluebird,q,jqLite"
+}
