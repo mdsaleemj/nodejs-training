@@ -1,0 +1,17 @@
+{
+  "name": "expressjs-api-serv",
+  "main": "server.js",
+  
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Expressjs",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.0.0",
+    "morgan": "~1.0.0",
+    "mongodb" : "*" , 
+    "mongoose": "*",
+    "body-parser": "~1.0.1"
+  }
+}
