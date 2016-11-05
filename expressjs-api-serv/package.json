@@ -1,17 +1,17 @@
 {
   "name": "expressjs-api-serv",
   "main": "server.js",
-  
   "scripts": {
     "start": "node server.js"
   },
   "author": "Expressjs",
   "license": "MIT",
   "dependencies": {
+    "bluebird": "^3.4.6",
+    "body-parser": "~1.0.1",
     "express": "~4.0.0",
-    "morgan": "~1.0.0",
-    "mongodb" : "*" , 
+    "mongodb": "*",
     "mongoose": "*",
-    "body-parser": "~1.0.1"
+    "morgan": "~1.0.0"
   }
 }
